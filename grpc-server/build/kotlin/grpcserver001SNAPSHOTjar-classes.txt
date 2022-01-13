@@ -1,0 +1,1 @@
+/Users/z001nz1/Workspace/personal/kotlin-springboot-grpc/grpc-server/build/classes/kotlin/main/com/kotlin/grpc/GrpcServerApplication.class:/Users/z001nz1/Workspace/personal/kotlin-springboot-grpc/grpc-server/build/classes/kotlin/main/com/kotlin/grpc/GrpcServerApplicationKt.class
